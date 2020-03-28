@@ -5,8 +5,6 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 The virus first emerged in Wuhan, Hubei, China and is the cause of the 2019–20 coronavirus pandemic.
 
-While the majority of cases result in mild symptoms,some progress to pneumonia and multi-organ failure.
-
 The infection is spread from one person to others via respiratory droplets produced from the airways, often during coughing. Hand washing, maintaining distance from other people, and not touching one's face with unwashed hands are measures recommended to prevent the disease.It is also recommended to cover one's nose and mouth with a tissue or a bent elbow when coughing.
 
 Masks are recommended for those who suspect they have the virus and for those who are taking care of someone with a suspected infection, but they are not recommended for the general public.

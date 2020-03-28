@@ -14,9 +14,9 @@ Masks are recommended for those who suspect they have the virus and for those wh
 There is no vaccine or specific antiviral treatment.Management involves treatment of symptoms, supportive care, and experimental measures.
 
 
-
-
 # Objective
 Objective of this notebook is to explore the COVID-19 data of US and its states.
 # Dataset
 Source: https://covidtracking.com/
+
+![covid image](https://user-images.githubusercontent.com/43942029/77830894-2605a980-7102-11ea-9190-7be0497ff60d.png)
